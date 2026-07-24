@@ -44,6 +44,8 @@ An AI-powered assistive navigation system for practical, on-device guidance.
 
 `Raspberry Pi` `OpenCV` `Flask` `Ultrasonic Sensors`
 
+---
+
 ### 02 / [StayNest](https://github.com/GovindSChouhan/your-repository-name)
 
 A full-stack accommodation booking platform for browsing and managing stays.
@@ -54,6 +56,8 @@ A full-stack accommodation booking platform for browsing and managing stays.
 - Cloudinary supports image handling.
 
 `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary`
+
+---
 
 ### 03 / [Axle Counter Monitoring System](https://github.com/GovindSChouhan/your-repository-name)
 
@@ -66,6 +70,8 @@ A web-based simulation of an axle counter monitoring system for Indian Railways,
 
 `Web Development` `Railway Monitoring Systems`
 
+---
+
 ### 04 / [DSA Journey](https://github.com/GovindSChouhan/your-repository-name)
 
 A personal repository documenting consistent Data Structures &amp; Algorithms practice.
@@ -76,6 +82,8 @@ A personal repository documenting consistent Data Structures &amp; Algorithms pr
 - Serves as a dedicated learning repository.
 
 `Data Structures` `Algorithms` `Problem Solving`
+
+---
 
 ### 05 / [Spotify Clone](https://github.com/GovindSChouhan/your-repository-name)
 
