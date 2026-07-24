@@ -1,96 +1,115 @@
-<!-- Banner: add a wide banner image (1500x400px works well) and replace this comment with its GitHub URL -->
-<!-- Easy free option: use https://banner.godori.dev/ or Canva, then upload to this repo and paste the raw image URL below -->
+<!-- Add a wide banner image (recommended: 1500 x 400 px) here when available. -->
 
-<h1 align="center">Hi, I'm Govind Singh Chouhan 👋</h1>
-<p align="center">
-  Software Engineering Student · Full-Stack Developer · Edge AI &amp; Computer Vision
-</p>
+<h1 align="center">Govind Singh Chouhan</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://example.com/your-resume">
-    <img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=readdotcv&logoColor=white" />
-  </a>
+  Software Engineering Student &middot; Full-Stack Developer &middot; Edge AI &amp; Computer Vision
 </p>
-
-<br>
-
-### About me
-
-I'm a B.Tech Electronics &amp; Communication Engineering student at **Jaypee University of Engineering &amp; Technology (JUET), Guna**, building practical software across full-stack web development, computer vision, and embedded systems. I'm currently a Software Development Intern at **Central Electronics Limited (CEL)**, and I'm preparing for software engineering roles through hands-on projects and continuous learning.
-
-- 🔭 Currently building **VisionAI Smart Stick** — an assistive navigation system
-- 🌱 Currently strengthening my **DSA** fundamentals
-- 📍 Based in India
-
-<br>
-
-### Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<br>
-
-### Featured projects
-
-**[VisionAI Smart Stick](https://github.com/GovindSChouhan/your-repository-name)**
-AI-powered assistive navigation system for on-device guidance, built around Raspberry Pi with OpenCV for computer vision, Flask for the app layer, and ultrasonic sensors for obstacle detection.
-`Raspberry Pi` `OpenCV` `Flask` `Ultrasonic Sensors`
-
-**[StayNest](https://github.com/GovindSChouhan/your-repository-name)**
-Full-stack accommodation booking platform with a Node.js/Express backend, MongoDB for data storage, and an EJS + Bootstrap frontend with Cloudinary for image handling.
-`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary`
-
-**[Axle Counter Monitoring System](https://github.com/GovindSChouhan/your-repository-name)**
-Web-based simulation of an axle counter monitoring system for Indian Railways, built during my Software Development Internship at Central Electronics Limited.
-`Web Development` `Railway Monitoring Systems`
-
-**[DSA Journey](https://github.com/GovindSChouhan/your-repository-name)**
-Personal repository documenting consistent Data Structures &amp; Algorithms practice, organized around core topics and problem-solving progress.
-`Data Structures` `Algorithms` `Problem Solving`
-
-**[Spotify Clone](https://github.com/GovindSChouhan/your-repository-name)**
-Responsive Spotify-inspired music player interface, built with plain HTML and CSS.
-`HTML` `CSS`
-
-<br>
-
-### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GovindSChouhan&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSChouhan&hide_border=true" height="165" />
+  I build practical software at the intersection of web, AI, and embedded systems.
 </p>
 
-<br>
-
-### Let's connect
-
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a> ·
-  <a href="mailto:your.email@example.com">Email</a> ·
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:your.email@example.com">Email</a>
+  &nbsp;&middot;&nbsp;
   <a href="https://example.com/your-resume">Resume</a>
 </p>
+
+---
+
+## Quick snapshot
+
+- B.Tech Electronics &amp; Communication Engineering, JUET Guna
+- Software Development Intern, Central Electronics Limited (CEL)
+- Building across full-stack development, Edge AI, and computer vision
+- Based in India
+
+## About me
+
+I am an Electronics &amp; Communication Engineering student at **Jaypee University of Engineering &amp; Technology (JUET), Guna**. I enjoy taking an idea from a problem statement to a working implementation, whether that means a full-stack web platform or an embedded vision system. My work is grounded in hands-on projects, clear problem solving, and steady learning as I prepare for software engineering roles.
+
+## Selected work
+
+### 01 / [VisionAI Smart Stick](https://github.com/GovindSChouhan/your-repository-name)
+
+An AI-powered assistive navigation system for practical, on-device guidance.
+
+- Built around Raspberry Pi for edge deployment.
+- Uses OpenCV for computer-vision capabilities.
+- Includes Flask in the application stack.
+- Integrates ultrasonic sensors for navigation support.
+
+`Raspberry Pi` `OpenCV` `Flask` `Ultrasonic Sensors`
+
+### 02 / [StayNest](https://github.com/GovindSChouhan/your-repository-name)
+
+A full-stack accommodation booking platform for browsing and managing stays.
+
+- Node.js and Express.js power the application backend.
+- MongoDB provides data storage.
+- EJS and Bootstrap shape the frontend.
+- Cloudinary supports image handling.
+
+`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary`
+
+### 03 / [Axle Counter Monitoring System](https://github.com/GovindSChouhan/your-repository-name)
+
+A web-based simulation of an axle counter monitoring system for Indian Railways, developed during my internship at CEL.
+
+- Created during a Software Development Internship at Central Electronics Limited.
+- Focused on the axle counter monitoring use case.
+- Built as a web-based simulation.
+- Grounded in the Indian Railways context.
+
+`Web Development` `Railway Monitoring Systems`
+
+### 04 / [DSA Journey](https://github.com/GovindSChouhan/your-repository-name)
+
+A personal repository documenting consistent Data Structures &amp; Algorithms practice.
+
+- Tracks steady problem-solving progress.
+- Organizes practice around core data structures.
+- Focuses on algorithms and structured thinking.
+- Serves as a dedicated learning repository.
+
+`Data Structures` `Algorithms` `Problem Solving`
+
+### 05 / [Spotify Clone](https://github.com/GovindSChouhan/your-repository-name)
+
+A responsive Spotify-inspired music player interface built for the web.
+
+- Designed as a Spotify-inspired interface.
+- Built with plain HTML and CSS.
+- Focused on responsive presentation.
+
+`HTML` `CSS`
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | JavaScript &middot; Python &middot; C++ |
+| **Frontend** | HTML &middot; CSS &middot; Bootstrap &middot; EJS |
+| **Backend** | Node.js &middot; Express.js &middot; Flask |
+| **Database** | MongoDB |
+| **AI / Vision** | OpenCV &middot; Raspberry Pi &middot; Computer Vision |
+| **Tools** | Git &middot; GitHub &middot; VS Code &middot; Cloudinary |
+
+## Areas of interest
+
+Full-Stack Development &middot; Edge AI &middot; Computer Vision &middot; Embedded Systems &middot; Assistive Technology &middot; Data Structures &amp; Algorithms
+
+## Connect
+
+<a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a> &middot;
+<a href="mailto:your.email@example.com">Email</a> &middot;
+<a href="https://example.com/your-resume">Resume</a>
+
+---
+
+⭐ **Thanks for visiting my profile.**
+
+I enjoy building practical software, learning new technologies, and solving real-world engineering problems. Feel free to connect or explore my projects.
