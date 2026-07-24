@@ -2,7 +2,7 @@
 
 <h1 align="center">Govind Singh Chouhan</h1>
 <p align="center">
-  Software Engineering Aspirant | Full-Stack Developer | Edge AI &amp; Computer Vision
+  Software Engineering Student | Full-Stack Developer | Edge AI &amp; Computer Vision
 </p>
 
 <p align="center">
@@ -20,51 +20,7 @@
 
 ## About me
 
-I am a B.Tech Electronics &amp; Communication Engineering student at **Jaypee University of Engineering &amp; Technology (JUET), Guna**, focused on building reliable software through full-stack development, computer vision, and embedded systems. I value clear problem solving, practical implementation, and steady growth through hands-on work.
-
-## Current focus
-
-- Full-Stack Development
-- Embedded Systems
-- Edge AI
-- Computer Vision
-- Data Structures &amp; Algorithms
-
-## Tech stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp" alt="JavaScript and C++" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS and Bootstrap" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Node.js, Express and Flask" />
-</p>
-
-**Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-</p>
-
-**AI &amp; Embedded**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,raspberrypi" alt="OpenCV and Raspberry Pi" />
-</p>
-
-**Tools**
-
-EJS · Cloudinary · Ultrasonic Sensors
+I am a B.Tech Electronics &amp; Communication Engineering student at **Jaypee University of Engineering &amp; Technology (JUET), Guna**. I build practical software across full-stack web development, computer vision, and embedded systems. Through hands-on projects, I strengthen my problem-solving skills and translate ideas into working solutions. I am preparing for software engineering roles through continuous learning and thoughtful implementation.
 
 ## Featured projects
 
@@ -72,42 +28,96 @@ EJS · Cloudinary · Ultrasonic Sensors
 
 AI-powered assistive navigation system for practical, on-device guidance.
 
-**Stack:** Raspberry Pi · OpenCV · Flask · Ultrasonic Sensors · [Repository](https://github.com/GovindSChouhan/your-repository-name)
+- Uses OpenCV for computer-vision capabilities.
+- Built around Raspberry Pi for edge deployment.
+- Includes Flask as part of the system stack.
+- Integrates ultrasonic sensors for navigation support.
+
+**Tech Stack**
+
+`Raspberry Pi` `OpenCV` `Flask` `Ultrasonic Sensors`
+
+**Repository →** [View repository](https://github.com/GovindSChouhan/your-repository-name)
 
 ### StayNest
 
 Full-stack accommodation booking platform designed for browsing and managing stays.
 
-**Stack:** Node.js · Express.js · MongoDB · EJS · Bootstrap · Cloudinary · [Repository](https://github.com/GovindSChouhan/your-repository-name)
+- Built as a full-stack accommodation booking platform.
+- Uses Node.js and Express.js for the application backend.
+- Uses MongoDB for data storage.
+- Uses EJS, Bootstrap, and Cloudinary in the web experience.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary`
+
+**Repository →** [View repository](https://github.com/GovindSChouhan/your-repository-name)
+
+### Axle Counter Monitoring System
+
+Web-based simulation of an Axle Counter Monitoring System for Indian Railways, developed during my CEL internship.
+
+- Developed during a Software Development Internship at Central Electronics Limited.
+- Focused on simulating an axle counter monitoring system.
+- Built as a web-based project.
+- Grounded in the Indian Railways monitoring context.
+
+**Tech Stack**
+
+`Web Development` `Railway Monitoring Systems`
+
+**Repository →** [View repository](https://github.com/GovindSChouhan/your-repository-name)
 
 ### DSA Journey
 
 Personal repository documenting consistent Data Structures &amp; Algorithms practice.
 
-**Focus:** Problem Solving · Data Structures &amp; Algorithms · [Repository](https://github.com/GovindSChouhan/your-repository-name)
+- Documents ongoing Data Structures &amp; Algorithms practice.
+- Centers on consistent problem-solving progress.
+- Organizes learning around core data structures.
+- Serves as a personal practice repository.
+
+**Tech Stack**
+
+`Data Structures` `Algorithms` `Problem Solving`
+
+**Repository →** [View repository](https://github.com/GovindSChouhan/your-repository-name)
 
 ### Spotify Clone
 
 Responsive Spotify-inspired music player interface built for the web.
 
-**Stack:** HTML · CSS · [Repository](https://github.com/GovindSChouhan/your-repository-name)
+- Built as a Spotify-inspired music player interface.
+- Designed to be responsive across screen sizes.
+- Implemented for the web.
+- Styled with HTML and CSS.
 
-### CEL Internship Project
+**Tech Stack**
 
-Web-based simulation of an Axle Counter Monitoring System for Indian Railways, developed during my internship.
+`HTML` `CSS`
 
-**Focus:** Web Development · Railway Monitoring Systems · [Repository](https://github.com/GovindSChouhan/your-repository-name)
+**Repository →** [View repository](https://github.com/GovindSChouhan/your-repository-name)
 
-## GitHub at a glance
+## Technical skills
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GovindSChouhan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Govind's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSChouhan&layout=compact&hide_border=true&theme=transparent" alt="Govind's most used languages" />
-</p>
+| Category | Technologies |
+| --- | --- |
+| **Languages** | JavaScript · Python · C++ |
+| **Frontend** | HTML · CSS · Bootstrap · EJS |
+| **Backend** | Node.js · Express.js · Flask |
+| **Database** | MongoDB |
+| **AI / Vision** | OpenCV · Raspberry Pi · Computer Vision |
+| **Tools** | Git · GitHub · VS Code · Cloudinary |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GovindSChouhan&hide_border=true&theme=transparent" alt="Govind's GitHub contribution streak" />
-</p>
+## Areas of interest
+
+- Full-Stack Development
+- Edge AI
+- Computer Vision
+- Embedded Systems
+- Assistive Technology
+- Data Structures &amp; Algorithms
 
 ## Connect
 
@@ -119,6 +129,8 @@ Web-based simulation of an Axle Counter Monitoring System for Indian Railways, d
   <a href="https://example.com/your-resume">Resume</a>
 </p>
 
-<p align="center">
-  Open to learning, collaborating, and building reliable software.
-</p>
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I enjoy building practical software, learning new technologies, and solving real-world engineering problems. Feel free to connect or explore my projects.
