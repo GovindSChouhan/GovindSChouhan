@@ -105,8 +105,39 @@ A responsive music-streaming web interface inspired by Spotify, built to strengt
 - Focuses on reusable UI components and clean visual structure.
 - Reinforced practical foundations in responsive web development.
 
+ HEAD
 **Tech:** `HTML5` · `CSS3` · `Flexbox` · `Responsive Design`<br />
 **Live demo:** [AudioSphere](https://audiospher.netlify.app/) · **Repository:** [Source code](https://github.com/GovindSChouhan/AudioSphere)
+
+`HTML` `CSS`
+
+## Technical Skills
+
+```text
+Languages      Java • JavaScript • Python • C++
+
+Frontend       HTML5 • CSS3 • Bootstrap • EJS
+
+Backend        Node.js • Express.js • Flask
+
+Database       MongoDB • Mongoose
+
+AI / Vision    OpenCV • Raspberry Pi • Computer Vision
+
+Tools          Git • GitHub • VS Code • Cloudinary • Netlify • Render
+```
+
+
+## Areas of interest
+
+Full-Stack Development &middot; Edge AI &middot; Computer Vision &middot; Embedded Systems &middot; Assistive Technology &middot; Data Structures &amp; Algorithms
+
+## Connect
+
+<a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a> &middot;
+<a href="mailto:your.email@example.com">Email</a> &middot;
+<a href="https://example.com/your-resume">Resume</a>
+ 13aaffbf481cea3adf84acfd8e7e4cf567a66ec5
 
 ---
 
