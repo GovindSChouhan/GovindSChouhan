@@ -95,16 +95,22 @@ A responsive Spotify-inspired music player interface built for the web.
 
 `HTML` `CSS`
 
-## Technical skills
+## Technical Skills
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | JavaScript &middot; Python &middot; C++ |
-| **Frontend** | HTML &middot; CSS &middot; Bootstrap &middot; EJS |
-| **Backend** | Node.js &middot; Express.js &middot; Flask |
-| **Database** | MongoDB |
-| **AI / Vision** | OpenCV &middot; Raspberry Pi &middot; Computer Vision |
-| **Tools** | Git &middot; GitHub &middot; VS Code &middot; Cloudinary |
+```text
+Languages      Java • JavaScript • Python • C++
+
+Frontend       HTML5 • CSS3 • Bootstrap • EJS
+
+Backend        Node.js • Express.js • Flask
+
+Database       MongoDB • Mongoose
+
+AI / Vision    OpenCV • Raspberry Pi • Computer Vision
+
+Tools          Git • GitHub • VS Code • Cloudinary • Netlify • Render
+```
+
 
 ## Areas of interest
 
