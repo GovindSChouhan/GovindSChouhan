@@ -1,123 +1,115 @@
-<!-- Add a wide banner image (recommended: 1500 x 400 px) here when available. -->
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Govind Singh Chouhan — Software Developer" />
+</p>
 
 <h1 align="center">Govind Singh Chouhan</h1>
 
 <p align="center">
-  Software Engineering Student &middot; Full-Stack Developer &middot; Edge AI &amp; Computer Vision
+  <strong>Software Developer · Full-Stack &amp; Edge AI</strong>
 </p>
 
 <p align="center">
-  I build practical software at the intersection of web, AI, and embedded systems.
+  I build practical software—from web applications to computer-vision systems at the edge.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a>
-  &nbsp;&middot;&nbsp;
-  <a href="mailto:your.email@example.com">Email</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://example.com/your-resume">Resume</a>
+  <a href="mailto:govindschouhan27@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/GovindSChouhan">GitHub</a>
 </p>
 
 ---
 
-## Quick snapshot
+## About
 
-- B.Tech Electronics &amp; Communication Engineering, JUET Guna
-- Software Development Intern, Central Electronics Limited (CEL)
-- Building across full-stack development, Edge AI, and computer vision
-- Based in India
+I am an Electronics and Communication Engineering student at **JUET** and a Software Development Intern at **Central Electronics Limited (CEL)**. I enjoy building reliable full-stack applications and exploring Edge AI and computer vision systems. I am actively strengthening my problem-solving skills through data structures and algorithms.
 
-## About me
+## Technical toolkit
 
-I am an Electronics &amp; Communication Engineering student at **Jaypee University of Engineering &amp; Technology (JUET), Guna**. I enjoy taking an idea from a problem statement to a working implementation, whether that means a full-stack web platform or an embedded vision system. My work is grounded in hands-on projects, clear problem solving, and steady learning as I prepare for software engineering roles.
+```text
+Languages      Java · JavaScript · Python · C++
+Frontend       HTML5 · CSS3 · Bootstrap · EJS
+Backend        Node.js · Express.js · Flask
+Database       MongoDB · Mongoose
+AI / Vision    OpenCV · Raspberry Pi · Computer Vision
+Tools          Git · GitHub · VS Code · Cloudinary · Netlify · Render
+```
 
-## Selected work
+## Featured projects
 
-### 01 / [VisionAI Smart Stick](https://github.com/GovindSChouhan/your-repository-name)
+### VisionAI Smart Stick
 
-An AI-powered assistive navigation system for practical, on-device guidance.
+An assistive navigation system that helps visually impaired users move more safely through real-time computer vision, ultrasonic sensing, and voice guidance on a Raspberry Pi.
 
-- Built around Raspberry Pi for edge deployment.
-- Uses OpenCV for computer-vision capabilities.
-- Includes Flask in the application stack.
-- Integrates ultrasonic sensors for navigation support.
+- Detects obstacles, stairs, potholes, people, vehicles, and nearby objects in real time.
+- Combines a Raspberry Pi, Camera Module, and three ultrasonic sensors for continuous environmental awareness.
+- Includes a Flask dashboard for local monitoring of live sensor readings and annotated camera output.
+- Uses priority-based voice alerts to deliver the most important navigation warning first.
+- Performs inference locally as an Edge AI application, without cloud dependency.
 
-`Raspberry Pi` `OpenCV` `Flask` `Ultrasonic Sensors`
-
----
-
-### 02 / [StayNest](https://github.com/GovindSChouhan/your-repository-name)
-
-A full-stack accommodation booking platform for browsing and managing stays.
-
-- Node.js and Express.js power the application backend.
-- MongoDB provides data storage.
-- EJS and Bootstrap shape the frontend.
-- Cloudinary supports image handling.
-
-`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Cloudinary`
+**Tech:** `Python` · `OpenCV` · `Flask` · `Raspberry Pi` · `Camera Module` · `Ultrasonic Sensors`<br />
+**Repository:** [VisionAI Smart Stick](https://github.com/GovindSChouhan/VisionAI-Smart-Stick)
 
 ---
 
-### 03 / [Axle Counter Monitoring System](https://github.com/GovindSChouhan/your-repository-name)
+### StayNest
 
-A web-based simulation of an axle counter monitoring system for Indian Railways, developed during my internship at CEL.
+A full-stack accommodation platform that helps college students discover, list, and manage affordable stays through a modern web application.
 
-- Created during a Software Development Internship at Central Electronics Limited.
-- Focused on the axle counter monitoring use case.
-- Built as a web-based simulation.
-- Grounded in the Indian Railways context.
+- Follows MVC architecture with authentication, authorization, reviews, and image uploads.
+- Uses MongoDB for persistent data and Cloudinary for image management.
+- Delivers responsive, server-rendered pages with Bootstrap and EJS.
+- Supports secure CRUD operations for listings with user access control.
+- Built as a production-style project for practical backend development experience.
 
-`Web Development` `Railway Monitoring Systems`
-
----
-
-### 04 / [DSA Journey](https://github.com/GovindSChouhan/your-repository-name)
-
-A personal repository documenting consistent Data Structures &amp; Algorithms practice.
-
-- Tracks steady problem-solving progress.
-- Organizes practice around core data structures.
-- Focuses on algorithms and structured thinking.
-- Serves as a dedicated learning repository.
-
-`Data Structures` `Algorithms` `Problem Solving`
+**Tech:** `JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `EJS` · `Bootstrap` · `Cloudinary`<br />
+**Live demo:** [StayNest](https://staynest-m9ju.onrender.com) · **Repository:** [Source code](https://github.com/GovindSChouhan/StayNest)
 
 ---
 
-### 05 / [Spotify Clone](https://github.com/GovindSChouhan/your-repository-name)
+### Railway Axle Counter Simulation
 
-A responsive Spotify-inspired music player interface built for the web.
+A browser-based simulation of a railway axle-counter system, created during my Software Development Internship at Central Electronics Limited (CEL).
 
-- Designed as a Spotify-inspired interface.
-- Built with plain HTML and CSS.
-- Focused on responsive presentation.
+- Simulates railway track occupancy through axle counting between track sections.
+- Applies Queue, Stack, Binary Search Tree, and Merge Sort in an industrial workflow.
+- Provides an interactive dashboard for train movement and fault simulation.
+- Makes railway-signalling concepts more approachable for learning and demonstration.
+- Informed by study of an industrial railway monitoring system.
 
-`HTML` `CSS`
-
-## Technical skills
-
-| Area | Technologies |
-| --- | --- |
-| **Languages** | JavaScript &middot; Python &middot; C++ |
-| **Frontend** | HTML &middot; CSS &middot; Bootstrap &middot; EJS |
-| **Backend** | Node.js &middot; Express.js &middot; Flask |
-| **Database** | MongoDB |
-| **AI / Vision** | OpenCV &middot; Raspberry Pi &middot; Computer Vision |
-| **Tools** | Git &middot; GitHub &middot; VS Code &middot; Cloudinary |
-
-## Areas of interest
-
-Full-Stack Development &middot; Edge AI &middot; Computer Vision &middot; Embedded Systems &middot; Assistive Technology &middot; Data Structures &amp; Algorithms
-
-## Connect
-
-<a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a> &middot;
-<a href="mailto:your.email@example.com">Email</a> &middot;
-<a href="https://example.com/your-resume">Resume</a>
+**Tech:** `JavaScript` · `HTML5` · `CSS3` · `Queue` · `Stack` · `BST` · `Merge Sort`<br />
+**Live demo:** [Railway Axle Counter](https://cel-railway-axle-counter.netlify.app/frontend/index.html) · **Repository:** [Source code](https://github.com/GovindSChouhan/CEL-Railway-Axle-Counter-Simulation)
 
 ---
 
-⭐ **Thanks for visiting my profile.**
+### DSA Journey
 
-I enjoy building practical software, learning new technologies, and solving real-world engineering problems. Feel free to connect or explore my projects.
+A structured repository documenting my preparation for software engineering interviews through data structures and algorithms.
+
+- Organizes solutions topic-wise along a structured learning roadmap.
+- Covers arrays, strings, linked lists, trees, graphs, dynamic programming, and more.
+- Uses Java for interview-oriented implementations.
+- Updated regularly to build consistency and strengthen core problem-solving skills.
+
+**Tech:** `Java` · `Data Structures` · `Algorithms`<br />
+**Repository:** [DSA Journey](https://github.com/GovindSChouhan/DSA-Journey)
+
+---
+
+### AudioSphere
+
+A responsive music-streaming web interface inspired by Spotify, built to strengthen core frontend development skills.
+
+- Built with semantic HTML5 and CSS3.
+- Uses Flexbox to create responsive layouts across screen sizes.
+- Focuses on reusable UI components and clean visual structure.
+- Reinforced practical foundations in responsive web development.
+
+**Tech:** `HTML5` · `CSS3` · `Flexbox` · `Responsive Design`<br />
+**Live demo:** [AudioSphere](https://audiospher.netlify.app/) · **Repository:** [Source code](https://github.com/GovindSChouhan/AudioSphere)
+
+---
+
+<p align="center">
+  Open to software development opportunities and collaborative projects.
+</p>
